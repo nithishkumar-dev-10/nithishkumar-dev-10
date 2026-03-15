@@ -22,7 +22,7 @@ https://nithishkumar-dev-10.github.io
 ## 🧠 Projects
 
 ### 🍳 KitchenStock AI
-AI-powered kitchen inventory prediction system that tracks ingredients and generates smart grocery lists.
+AI-powered kitchen inventory and grocery prediction system that tracks ingredient usage and generates smart shopping lists using machine learning.
 
 Tech: Python • Machine Learning • FastAPI  
 Repo: https://github.com/nithishkumar-dev-10/kitchenstock-ai
@@ -30,7 +30,7 @@ Repo: https://github.com/nithishkumar-dev-10/kitchenstock-ai
 ---
 
 ### 💰 TrackIt Finance Tracker
-Flask-based finance management system for tracking income, expenses and monthly summaries.
+Flask-based finance management system that tracks income, expenses, and generates monthly financial summaries.
 
 Tech: Python • Flask • MySQL  
 Repo: https://github.com/nithishkumar-dev-10/trackit-finance-tracker
@@ -85,3 +85,9 @@ https://www.linkedin.com/in/nithish-kumar-saravanan10
 
 Portfolio:  
 https://nithishkumar-dev-10.github.io
+
+📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=dark)
