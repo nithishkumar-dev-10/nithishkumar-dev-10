@@ -37,12 +37,6 @@ Repo: https://github.com/nithishkumar-dev-10/trackit-finance-tracker
 
 ---
 
-### ⭐ TransReliant
-Machine learning system predicting train reliability, delay risk and ticket confirmation probability.
-
-Tech: Python • Machine Learning • FastAPI
-
----
 
 ##  Tech Stack
 
