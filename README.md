@@ -1,4 +1,4 @@
-# Hi, I'm Nithish Kumar 👋
+# Hi, I'm Nithish Kumar 
 
 🎓 B.Tech Computer Science Student  
 🤖 Aspiring AI Engineer | Backend & Machine Learning Enthusiast  
