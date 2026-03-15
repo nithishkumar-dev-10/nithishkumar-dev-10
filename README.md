@@ -1,7 +1,7 @@
 # Hi, I'm Nithish Kumar 
 
-🎓 B.Tech Computer Science Student  
-🤖 Aspiring AI Engineer | Backend & Machine Learning Enthusiast  
+ B.Tech Computer Science Student  
+ Aspiring AI Engineer | Backend & Machine Learning Enthusiast  
 
 I enjoy building intelligent systems and backend applications that solve real-world problems.
 
@@ -10,7 +10,7 @@ https://nithishkumar-dev-10.github.io
 
 ---
 
-## 🚀 What I'm Currently Working On
+##  What I'm Currently Working On
 
 - Building AI-powered applications and intelligent systems
 - Learning Machine Learning and data processing
@@ -19,9 +19,9 @@ https://nithishkumar-dev-10.github.io
 
 ---
 
-## 🧠 Projects
+##  Projects
 
-### 🍳 KitchenStock AI
+### ⭐ KitchenStock AI
 AI-powered kitchen inventory and grocery prediction system that tracks ingredient usage and generates smart shopping lists using machine learning.
 
 Tech: Python • Machine Learning • FastAPI  
@@ -29,7 +29,7 @@ Repo: https://github.com/nithishkumar-dev-10/kitchenstock-ai
 
 ---
 
-### 💰 TrackIt Finance Tracker
+### ⭐ TrackIt Finance Tracker
 Flask-based finance management system that tracks income, expenses, and generates monthly financial summaries.
 
 Tech: Python • Flask • MySQL  
@@ -37,14 +37,14 @@ Repo: https://github.com/nithishkumar-dev-10/trackit-finance-tracker
 
 ---
 
-### 🚆 TransReliant
+### ⭐ TransReliant
 Machine learning system predicting train reliability, delay risk and ticket confirmation probability.
 
 Tech: Python • Machine Learning • FastAPI
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 **Languages**
 - Python
