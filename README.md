@@ -8,6 +8,11 @@ I enjoy building intelligent systems and backend applications that solve real-wo
 
 ---
 
+## 🗓️ Contribution Forest
+![GitHub Snake](https://raw.githubusercontent.com/nithishkumar-dev-10/nithishkumar-dev-10/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Skills |
@@ -40,9 +45,6 @@ Flask-based finance management system that tracks income, expenses, and generate
 ---
 
 ## 📊 Performance Metrics
-
-### 📈 Activity Graph 
-![Nithish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithishkumar-dev-10&theme=tokyonight&hide_border=true&area=true)
 
 ### ⚡ GitHub Stats & Streak
 <p align="left">
