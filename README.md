@@ -52,9 +52,9 @@ Flask-based finance management system that tracks income, expenses, and generate
 <img src="https://github-readme-streak-stats.demolab.com/?user=nithishkumar-dev-10&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-## 📈 Activity Graph
+## 🟩 Contribution Heatmap
 
-![Nithish's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithishkumar-dev-10&theme=github-dark&hide_border=true)
+![GitHub Contribution Heatmap](https://ghchart.rshah.org/0e4429/nithishkumar-dev-10)
 
 ### 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=tokyonight&hide_border=true)
