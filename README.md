@@ -82,11 +82,15 @@ https://nithishkumar-dev-10.github.io
 
 ### 📊 Contribution Activity
 
+![GitHub Streak](https://streak-stats.demolab.com?user=nithishkumar-dev-10&theme=dark)
+
 ![Nithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithishkumar-dev-10&theme=github-dark)]
 
 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nithishkumar-dev-10&theme=dark)
+
+
+![Nithish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=dark)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=dark)
