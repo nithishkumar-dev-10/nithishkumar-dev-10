@@ -71,14 +71,6 @@ Repo: https://github.com/nithishkumar-dev-10/trackit-finance-tracker
 
 ---
 
-## 📫 Connect With Me
-
-GitHub: https://github.com/nithishkumar-dev-10  
-LinkedIn:  
-https://www.linkedin.com/in/nithish-kumar-saravanan10  
-
-Portfolio:  
-https://nithishkumar-dev-10.github.io
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nithishkumar-dev-10&theme=github-dark-blue&hide_border=true)
@@ -87,3 +79,13 @@ https://nithishkumar-dev-10.github.io
 ![Nithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=github_dark&hide_border=true)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-kumar-saravanan10)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nithishkumar-dev-10.github.io)
