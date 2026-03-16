@@ -81,10 +81,11 @@ Portfolio:
 https://nithishkumar-dev-10.github.io
 ## 📊 GitHub Stats
 
-![Nithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=github_dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=nithishkumar-dev-10&theme=github-dark-blue&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=github_dark&hide_border=true)
+![Nithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=github_dark&hide_border=true)
 
-![Contribution Grid](https://ghchart.rshah.org/409ba5/nithishkumar-dev-10)
+
+![GitHub Contribution Grid](https://github-contribution-stats.vercel.app/api/?username=nithishkumar-dev-10&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=github_dark&hide_border=true)
