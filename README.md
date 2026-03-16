@@ -84,7 +84,7 @@ https://nithishkumar-dev-10.github.io
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nithishkumar-dev-10&theme=dark)
 
-![Nithish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nithishkumar-dev-10&theme=github-dark)
+![GitHub Contribution Grid](https://ghchart.rshah.org/nithishkumar-dev-10)
 
 ## 📊 GitHub Stats
 
