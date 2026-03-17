@@ -37,7 +37,6 @@ Repo: https://github.com/nithishkumar-dev-10/trackit-finance-tracker
 
 ---
 
-
 ##  Tech Stack
 
 **Languages**
