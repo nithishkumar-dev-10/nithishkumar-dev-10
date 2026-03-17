@@ -37,28 +37,30 @@ Repo: https://github.com/nithishkumar-dev-10/trackit-finance-tracker
 
 ---
 
+
 ##  Tech Stack
 
-**Languages**
-- Python
-- Java
-- HTML
-- CSS
+### 💻 Programming Languages
+- Python  
+- Java  
+- HTML  
+- CSS  
 
-**AI / Machine Learning**
-- Data Preprocessing
-- Feature Engineering
-- Model Training
+### 🤖 AI / Machine Learning
+- Data Preprocessing  
+- Feature Engineering  
+- Model Training  
 
-**Backend**
-- FastAPI
-- Flask
+### ⚙️ Backend Development
+- FastAPI  
+- Flask  
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+### 🛠 Tools & Development Environment
+- Git  
+- GitHub  
+- VS Code  
+- Jupyter Notebook  
+
 
 ---
 
