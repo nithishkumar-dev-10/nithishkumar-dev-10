@@ -64,39 +64,28 @@ Flask-based finance management system to track income, expenses, and generate mo
 
 ---
 
+
 ## 🏆 Achievements
 
-<div align="center">
-
-### 🥇 Epochon 2.0 AI Hackathon  
-**🏆 First Place Winner**
-
-### 🎓 IIT Bombay Techfest  
-**AI Workshop Participant**
-
-### 💻 amFOSS  
-**Active Open Source Contributor**
-
-</div>
+- 🥇 **First Place** — Epochon 2.0 AI Hackathon  
+- 🎓 **IIT Bombay Techfest** — AI Workshop Participant  
+- 💻 **amFOSS** — Open Source Contributor  
 
 ---
 
 ## 📊 Performance Metrics
 
-### ⚡ GitHub Stats
+### ⚡ GitHub Stats & Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=nithishkumar-dev-10&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=nithishkumar-dev-10&theme=tokyonight&hide_border=true" width="48%" />
 
 ---
 
 ### 💻 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
 
 ## 📫 Connect With Me
 
