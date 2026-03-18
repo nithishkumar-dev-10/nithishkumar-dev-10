@@ -86,7 +86,6 @@ Flask-based finance management system to track income, expenses, and generate mo
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-kumar-saravanan10)
