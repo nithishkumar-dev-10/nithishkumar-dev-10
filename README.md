@@ -1,90 +1,98 @@
-# Hi, I'm Nithish Kumar 
+# Hi, I'm Nithish Kumar 👋
 
- B.Tech Computer Science Student  
- Aspiring AI Engineer | Backend & Machine Learning Enthusiast  
+🎓 B.Tech Computer Science @ Amrita Vishwa Vidyapeetham  
+🤖 Aspiring AI Engineer | Backend & Machine Learning Enthusiast  
 
-I enjoy building intelligent systems and backend applications that solve real-world problems.
+I build intelligent systems and scalable backend applications that solve real-world problems.
 
-🌐 Portfolio  
+🌐 **Portfolio:**  
 https://nithishkumar-dev-10.github.io
 
 ---
 
-##  What I'm Currently Working On
+## 🛠️ Tech Stack
 
-- Building AI-powered applications and intelligent systems
-- Learning Machine Learning and data processing
-- Developing backend APIs using FastAPI
-- Creating practical AI projects with real-world use cases
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>Python • Java • HTML • CSS</td>
+</tr>
+
+<tr>
+<td><strong>AI / ML</strong></td>
+<td>Data Preprocessing • Feature Engineering • Model Training</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>FastAPI • Flask • REST APIs • MySQL</td>
+</tr>
+
+<tr>
+<td><strong>Tools & Platforms</strong></td>
+<td>Git • GitHub • VS Code • Jupyter Notebook</td>
+</tr>
+</table>
 
 ---
 
-##  Projects
+## 🚀 Projects
 
 ### ⭐ KitchenStock AI
-AI-powered kitchen inventory and grocery prediction system that tracks ingredient usage and generates smart shopping lists using machine learning.
-
-Tech: Python • Machine Learning • FastAPI  
-Repo: https://github.com/nithishkumar-dev-10/kitchenstock-ai
-
----
-
-### ⭐ TrackIt Finance Tracker
-Flask-based finance management system that tracks income, expenses, and generates monthly financial summaries.
-
-Tech: Python • Flask • MySQL  
-Repo: https://github.com/nithishkumar-dev-10/trackit-finance-tracker
+🔗 https://github.com/nithishkumar-dev-10/kitchenstock-ai  
+AI-powered kitchen inventory and grocery prediction system that tracks ingredient usage and generates smart shopping lists.  
+**Tech:** Python • Machine Learning • FastAPI  
 
 ---
 
+### ⭐ TrackIt Finance Tracker  
+🔗 https://github.com/nithishkumar-dev-10/trackit-finance-tracker  
+Flask-based finance management system to track income, expenses, and generate monthly summaries.  
+**Tech:** Python • Flask • MySQL  
 
-##  Tech Stack
+---
 
-### 💻 Programming Languages
-- Python  
-- Java  
-- HTML  
-- CSS  
+## 🌍 Open Source Contributions
 
-### 🤖 AI / Machine Learning
-- Data Preprocessing  
-- Feature Engineering  
-- Model Training  
+### 🧠 ThePerson Project  
+- Implemented `existential_crisis` feature  
+- Successfully merged into the main branch via Pull Request  
+- Passed all automated checks (CI/CD)  
+- Collaborated with project maintainer  
 
-### ⚙️ Backend Development
-- FastAPI  
-- Flask  
-
-### 🛠 Tools & Development Environment
-- Git  
-- GitHub  
-- VS Code  
-- Jupyter Notebook  
-
+🔗 PR: https://github.com/TheGittyPerson/ThePerson/pull/45  
 
 ---
 
 ## 🏆 Achievements
 
-🥇 First Place — Epochon 2.0 AI Hackathon  
-🎓 IIT Bombay Techfest AI Workshop  
-💻 amFOSS Open Source Community
+- 🥇 **First Place** — Epochon 2.0 AI Hackathon  
+- 🎓 **IIT Bombay Techfest** — AI Workshop  
+- 💻 **amFOSS** — Open Source Community Member  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance Metrics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nithishkumar-dev-10&theme=github-dark-blue&hide_border=true)
+### ⚡ GitHub Stats & Streak
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=nithishkumar-dev-10&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+---
 
-![Nithish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=github_dark&hide_border=true)
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=github_dark&hide_border=true)
+---
 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-kumar-saravanan10)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishkumarsaravanan33@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=nithishkumarsaravanan33@gmail.com)
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nithishkumar-dev-10.github.io)
+⭐ *Last updated: March 2026*
