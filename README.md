@@ -55,7 +55,7 @@ Flask-based finance management system to track income, expenses, and generate mo
 
 ## 🌍 Open Source Contributions
 
-### 🧠 ThePerson Project  
+### 🧠 TheGittyPerson Project  
 - Implemented `existential_crisis` feature  
 - Successfully merged into the main branch via Pull Request  
 - Passed all automated checks (CI/CD)  
