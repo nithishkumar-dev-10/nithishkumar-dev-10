@@ -44,7 +44,9 @@ https://nithishkumar-dev-10.github.io
 AI-powered kitchen inventory and grocery prediction system that tracks ingredient usage and generates smart shopping lists.  
 **Tech:** Python • Machine Learning • FastAPI  
 
+
 ---
+
 
 ### ⭐ TrackIt Finance Tracker  
 🔗 https://github.com/nithishkumar-dev-10/trackit-finance-tracker  
