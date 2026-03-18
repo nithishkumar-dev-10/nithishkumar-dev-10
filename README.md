@@ -65,6 +65,7 @@ Flask-based finance management system to track income, expenses, and generate mo
 
 ---
 
+
 ## 🏆 Achievements
 
 - 🥇 **First Place** — Epochon 2.0 AI Hackathon  
@@ -78,7 +79,7 @@ Flask-based finance management system to track income, expenses, and generate mo
 ### ⚡ GitHub Stats & Streak
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=nithishkumar-dev-10&theme=tokyonight&hide_border=true" width="48%" />
+
 </p>
 
 ---
