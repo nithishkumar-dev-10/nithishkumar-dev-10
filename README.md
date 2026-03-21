@@ -1,7 +1,9 @@
 # Hi, I'm Nithish Kumar 👋
 
 🎓 B.Tech Computer Science @ Amrita Vishwa Vidyapeetham  
-🤖 Aspiring AI Engineer | Backend & Machine Learning Enthusiast  
+🤖 Aspiring AI Engineer | Backend & Machine Learning Enthusiast 
+
+
 
 I build intelligent systems and scalable backend applications that solve real-world problems.
 
