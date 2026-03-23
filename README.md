@@ -2,7 +2,6 @@
 
 
 🎓 B.Tech Computer Science @ Amrita Vishwa Vidyapeetham  
-
 🤖 Aspiring AI Engineer | Backend & Machine Learning Enthusiast 
 
 
