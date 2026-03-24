@@ -7,9 +7,7 @@
 I build intelligent systems and scalable backend applications that solve real-world problems.
 
 🌐 **Portfolio:**  
-
 https://nithishkumar-dev-10.github.io
-
 
 ---
 
