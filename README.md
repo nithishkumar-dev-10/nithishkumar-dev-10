@@ -4,7 +4,6 @@
 🤖 Aspiring AI Engineer | Backend & Machine Learning Enthusiast 
 
 
-
 🌐 **Portfolio:**  
 https://nithishkumar-dev-10.github.io
 
