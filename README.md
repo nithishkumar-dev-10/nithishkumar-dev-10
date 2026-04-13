@@ -10,7 +10,7 @@
 
 
 🌐 **Portfolio:**  
-https://nithishkumar-dev-10.github.io
+https://nithishkumar-dev-10.github.io/nithish-dev-portfolio/
 
 ---
 
