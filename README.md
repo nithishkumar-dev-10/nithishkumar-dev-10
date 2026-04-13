@@ -12,6 +12,7 @@
 
 ---
 
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=transparent&hide_border=true&title_color=7ecfde&icon_color=7ecfde&text_color=c9e8f0&bg_color=020817" />
 
 ### `~/nithish/profile.py`
 
@@ -41,31 +42,76 @@ class NithishKumar:
 
 <div align="center">
 
-**AI / Machine Learning**
+<table>
+<tr>
+<td align="center" width="33%">
 
-![Python](https://img.shields.io/badge/Python-020817?style=for-the-badge&logo=python&logoColor=7ecfde)
-![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-020817?style=for-the-badge&logo=scikit-learn&logoColor=7ecfde)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-020817?style=for-the-badge&logo=openai&logoColor=7ecfde)
-![NumPy](https://img.shields.io/badge/NumPy-020817?style=for-the-badge&logo=numpy&logoColor=7ecfde)
-![Pandas](https://img.shields.io/badge/Pandas-020817?style=for-the-badge&logo=pandas&logoColor=7ecfde)
-![Jupyter](https://img.shields.io/badge/Jupyter-020817?style=for-the-badge&logo=jupyter&logoColor=7ecfde)
+### 🤖 AI & Machine Learning
+<br/>
 
-**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" title="Python"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40" title="TensorFlow"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" title="PyTorch"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0a4a6e?style=for-the-badge&logo=fastapi&logoColor=e2f4f7)
-![Flask](https://img.shields.io/badge/Flask-0a4a6e?style=for-the-badge&logo=flask&logoColor=e2f4f7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a4a6e?style=for-the-badge&logo=postgresql&logoColor=e2f4f7)
-![MySQL](https://img.shields.io/badge/MySQL-0a4a6e?style=for-the-badge&logo=mysql&logoColor=e2f4f7)
-![REST API](https://img.shields.io/badge/REST_API-0a4a6e?style=for-the-badge&logo=postman&logoColor=e2f4f7)
+<br/><br/>
 
-**Frontend & Tools**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-020817?style=flat-square&logo=scikit-learn&logoColor=7ecfde)
+![NumPy](https://img.shields.io/badge/NumPy-020817?style=flat-square&logo=numpy&logoColor=7ecfde)
+![Pandas](https://img.shields.io/badge/Pandas-020817?style=flat-square&logo=pandas&logoColor=7ecfde)
+![Jupyter](https://img.shields.io/badge/Jupyter-020817?style=flat-square&logo=jupyter&logoColor=7ecfde)
 
-![HTML5](https://img.shields.io/badge/HTML5-020817?style=for-the-badge&logo=html5&logoColor=7ecfde)
-![CSS3](https://img.shields.io/badge/CSS3-020817?style=for-the-badge&logo=css3&logoColor=7ecfde)
-![JavaScript](https://img.shields.io/badge/JavaScript-020817?style=for-the-badge&logo=javascript&logoColor=7ecfde)
-![Git](https://img.shields.io/badge/Git-020817?style=for-the-badge&logo=git&logoColor=7ecfde)
-![GitHub](https://img.shields.io/badge/GitHub-020817?style=for-the-badge&logo=github&logoColor=7ecfde)
-![VS Code](https://img.shields.io/badge/VS_Code-020817?style=for-the-badge&logo=visualstudiocode&logoColor=7ecfde)
+<br/>
+
+`ML Pipelines` · `Agentic AI` · `LLM Eval`
+`Feature Engineering` · `RAG`
+
+</td>
+<td align="center" width="33%">
+
+### 🔧 Backend & Databases
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" title="FastAPI"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40" title="Flask"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="40" title="PostgreSQL"/>
+
+<br/><br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-020817?style=flat-square&logo=mysql&logoColor=7ecfde)
+![REST API](https://img.shields.io/badge/REST_APIs-020817?style=flat-square&logo=postman&logoColor=7ecfde)
+![Werkzeug](https://img.shields.io/badge/Werkzeug-020817?style=flat-square&logo=python&logoColor=7ecfde)
+![Jinja2](https://img.shields.io/badge/Jinja2-020817?style=flat-square&logo=jinja&logoColor=7ecfde)
+
+<br/>
+
+`Auth Systems` · `Blueprint Architecture`
+`API Design` · `DB Schema`
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ Tools & Frontend
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" title="Git"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" title="GitHub"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" title="VS Code"/>
+
+<br/><br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-020817?style=flat-square&logo=html5&logoColor=7ecfde)
+![CSS3](https://img.shields.io/badge/CSS3-020817?style=flat-square&logo=css3&logoColor=7ecfde)
+![JavaScript](https://img.shields.io/badge/JavaScript-020817?style=flat-square&logo=javascript&logoColor=7ecfde)
+![Render](https://img.shields.io/badge/Render-020817?style=flat-square&logo=render&logoColor=7ecfde)
+
+<br/>
+
+`CI/CD` · `Version Control`
+`Deployment` · `Dev Tooling`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -148,12 +194,37 @@ Modular, database-driven personal finance tracker with secure session-based auth
 
 ## 🌿 Open Source
 
-### amFOSS — TheGittyPerson / ThePerson
+<div align="center">
 
-Active contributor in the **amFOSS open-source community**. Implemented the `existential_crisis` feature — collaborated with the project maintainer, passed full CI/CD pipeline checks, and merged successfully via Pull Request.
+<table>
+<tr>
+<td>
 
-[![PR #45 Merged](https://img.shields.io/badge/PR_%2345-merged-0a4a6e?style=flat-square&logo=git&logoColor=white)](https://github.com/TheGittyPerson/ThePerson/pull/45)
-[![amFOSS](https://img.shields.io/badge/Member-amFOSS_Community-020817?style=flat-square&logo=opensourceinitiative&logoColor=7ecfde)](https://amfoss.in)
+<img align="left" src="https://img.shields.io/badge/CONTRIBUTOR-amFOSS-0a4a6e?style=for-the-badge&logo=opensourceinitiative&logoColor=7ecfde" />
+
+<br/><br/>
+
+**TheGittyPerson / ThePerson** &nbsp;·&nbsp; [View PR #45 ↗](https://github.com/TheGittyPerson/ThePerson/pull/45)
+
+Member of the **amFOSS open-source developer community** — contributing to real codebases alongside experienced maintainers.
+
+&nbsp;&nbsp;🔹 Implemented the `existential_crisis` feature from scratch<br/>
+&nbsp;&nbsp;🔹 Collaborated directly with the project maintainer on code review<br/>
+&nbsp;&nbsp;🔹 Full CI/CD pipeline passed — all automated checks green<br/>
+&nbsp;&nbsp;🔹 Successfully merged into `main` via Pull Request
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Merged_✓-0a4a6e?style=flat-square&logoColor=white)
+![Branch](https://img.shields.io/badge/Branch-main-020817?style=flat-square&logo=git&logoColor=7ecfde)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Passing_✓-020817?style=flat-square&logo=githubactions&logoColor=7ecfde)
+![Community](https://img.shields.io/badge/amFOSS-Member-020817?style=flat-square&logo=opensourceinitiative&logoColor=7ecfde)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
