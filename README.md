@@ -12,7 +12,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=transparent&hide_border=true&title_color=7ecfde&icon_color=7ecfde&text_color=c9e8f0&bg_color=020817" />
 
 ### `~/nithish/profile.py`
 
