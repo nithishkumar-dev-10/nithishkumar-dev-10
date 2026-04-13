@@ -1,104 +1,145 @@
 <div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,50:0d3b5e,100:0a7a8a&height=200&section=header&text=Nithish%20Kumar&fontSize=52&fontColor=a8edea&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Machine%20Learning&descColor=78c5c8&descAlignY=58&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,50:0c1a3a,100:0a4a6e&height=220&section=header&text=Nithish%20Kumar&fontSize=60&fontColor=e2f4f7&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Multi-Agent%20Systems&descColor=7ecfde&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-```
-◈  Initializing neural pathways...  ◈  Signal acquired  ◈  Welcome to the deep  ◈
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=7ECFDE&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+at+the+intersection+of+AI+%26+backend;Open+to+AI%2FML+Engineering+roles+%26+internships+%F0%9F%9A%80;Currently+exploring+RAG+pipelines+%26+MCP+agents)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=transparent&hide_border=true&title_color=7ecfde&icon_color=7ecfde&text_color=c9e8f0&bg_color=020817" />
 
-### 🌊 About Me
+### `~/nithish/profile.py`
 
-```yaml
-name      : Nithish Kumar Saravanan
-alias     : nithishkumar-dev-10
-location  : Tamil Nadu, India
-institute : Amrita Vishwa Vidyapeetham
-degree    : B.Tech Computer Science
+```python
+class NithishKumar:
+  name    = "Nithish Kumar"
+  degree  = "B.Tech CS @ Amrita Vishwa Vidyapeetham"
+  role    = "AI Engineer"
+  stack   = ["Python", "FastAPI", "Flask", "ML"]
+  goals   = [
+    "Build AGI-era products",
+    "Scale AI systems",
+    "Impact millions"
+  ]
+  status  = "Open to work 🚀"
 
-focus:
-  - Artificial Intelligence & ML
-  - Backend Engineering
-  - Open Source Development
-
-status    : "Building things that think"
+  def exploring(self):
+    return ["RAG pipelines", "MCP agents",
+            "LLM evaluation"]
 ```
 
 <br clear="right"/>
 
 ---
 
-## ⚗️ Tech Spectrum
+## ⚗️ Tech I build with
 
 <div align="center">
 
-**Languages & Markup**
-
-![Python](https://img.shields.io/badge/Python-0a0f2e?style=for-the-badge&logo=python&logoColor=a8edea)
-![Java](https://img.shields.io/badge/Java-0a0f2e?style=for-the-badge&logo=openjdk&logoColor=78c5c8)
-![HTML5](https://img.shields.io/badge/HTML5-0a0f2e?style=for-the-badge&logo=html5&logoColor=a8edea)
-![CSS3](https://img.shields.io/badge/CSS3-0a0f2e?style=for-the-badge&logo=css3&logoColor=78c5c8)
-
 **AI / Machine Learning**
 
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d3b5e?style=for-the-badge&logo=scikit-learn&logoColor=a8edea)
-![NumPy](https://img.shields.io/badge/NumPy-0d3b5e?style=for-the-badge&logo=numpy&logoColor=78c5c8)
-![Pandas](https://img.shields.io/badge/Pandas-0d3b5e?style=for-the-badge&logo=pandas&logoColor=a8edea)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d3b5e?style=for-the-badge&logo=jupyter&logoColor=78c5c8)
+![Python](https://img.shields.io/badge/Python-020817?style=for-the-badge&logo=python&logoColor=7ecfde)
+![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-020817?style=for-the-badge&logo=scikit-learn&logoColor=7ecfde)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-020817?style=for-the-badge&logo=openai&logoColor=7ecfde)
+![NumPy](https://img.shields.io/badge/NumPy-020817?style=for-the-badge&logo=numpy&logoColor=7ecfde)
+![Pandas](https://img.shields.io/badge/Pandas-020817?style=for-the-badge&logo=pandas&logoColor=7ecfde)
+![Jupyter](https://img.shields.io/badge/Jupyter-020817?style=for-the-badge&logo=jupyter&logoColor=7ecfde)
 
 **Backend & Databases**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0a7a8a?style=for-the-badge&logo=fastapi&logoColor=0a0f2e)
-![Flask](https://img.shields.io/badge/Flask-0a7a8a?style=for-the-badge&logo=flask&logoColor=0a0f2e)
-![MySQL](https://img.shields.io/badge/MySQL-0a7a8a?style=for-the-badge&logo=mysql&logoColor=0a0f2e)
-![REST API](https://img.shields.io/badge/REST_API-0a7a8a?style=for-the-badge&logo=postman&logoColor=0a0f2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a4a6e?style=for-the-badge&logo=fastapi&logoColor=e2f4f7)
+![Flask](https://img.shields.io/badge/Flask-0a4a6e?style=for-the-badge&logo=flask&logoColor=e2f4f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a4a6e?style=for-the-badge&logo=postgresql&logoColor=e2f4f7)
+![MySQL](https://img.shields.io/badge/MySQL-0a4a6e?style=for-the-badge&logo=mysql&logoColor=e2f4f7)
+![REST API](https://img.shields.io/badge/REST_API-0a4a6e?style=for-the-badge&logo=postman&logoColor=e2f4f7)
 
-**Tools & Platforms**
+**Frontend & Tools**
 
-![Git](https://img.shields.io/badge/Git-0a0f2e?style=for-the-badge&logo=git&logoColor=a8edea)
-![GitHub](https://img.shields.io/badge/GitHub-0a0f2e?style=for-the-badge&logo=github&logoColor=78c5c8)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0f2e?style=for-the-badge&logo=visualstudiocode&logoColor=a8edea)
+![HTML5](https://img.shields.io/badge/HTML5-020817?style=for-the-badge&logo=html5&logoColor=7ecfde)
+![CSS3](https://img.shields.io/badge/CSS3-020817?style=for-the-badge&logo=css3&logoColor=7ecfde)
+![JavaScript](https://img.shields.io/badge/JavaScript-020817?style=for-the-badge&logo=javascript&logoColor=7ecfde)
+![Git](https://img.shields.io/badge/Git-020817?style=for-the-badge&logo=git&logoColor=7ecfde)
+![GitHub](https://img.shields.io/badge/GitHub-020817?style=for-the-badge&logo=github&logoColor=7ecfde)
+![VS Code](https://img.shields.io/badge/VS_Code-020817?style=for-the-badge&logo=visualstudiocode&logoColor=7ecfde)
 
 </div>
 
 ---
 
-## 🔭 Project Logs
+## 🏅 Milestones
+
+<div align="center">
+
+| | Achievement | Details | Year |
+|:---:|---|---|:---:|
+| 🥇 | **1st Place — Epochon Hackathon** | Built LexTrack-AI: 7-agent legal AI system, won for production-grade architecture & real-world applicability | 2025 |
+| 🎓 | **IIT Bombay Techfest** | AI & ML workshop — hands-on ML techniques at India's most prestigious tech festival | 2025 |
+| 🌐 | **amFOSS Community Member** | Open-source contributor — collaborative engineering on real codebases at scale | Ongoing |
+
+</div>
+
+---
+
+## 🔭 Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🏆 LexTrack-AI
+> *"Safety-first multi-agent legal intelligence."*
+
+A **7-agent legal AI system** built in 24 hours at Epochon Hackathon — featuring a Self-Doubt Engine for safety-first decisions, Smart Scribe petition generator, compliance monitoring, and automated hearing scheduling. Awarded **First Prize** for production-grade architecture.
+
+`7 Agents` &nbsp;·&nbsp; `24h Build` &nbsp;·&nbsp; `🥇 1st Prize`
+
+**Stack:** `Python` · `FastAPI` · `Multi-Agent` · `LLM`
+
+[![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/lextrack-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DistillCode
+> *"Turn any codebase into AI-ready intelligence."*
+
+Distills any GitHub repo into a structured ZIP + PDF summary. Handles repos of any size — strips datasets, removes DB binaries, exports schemas, and generates a **Claude-powered** structured project analysis.
+
+**Stack:** `FastAPI` · `Python` · `Claude API` · `GitPython`
+
+[![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 KitchenStock AI
 > *"An AI that knows your fridge better than you do."*
 
-An intelligent kitchen inventory system that tracks ingredient usage patterns and generates smart, predictive grocery lists using machine learning.
+Smart kitchen inventory & grocery planning system. Tracks ingredients, estimates consumption via behavior-based learning, generates predictive grocery recommendations, and supports shared household access.
 
-**Stack:** `Python` · `Machine Learning` · `FastAPI`
+**Stack:** `Python` · `ML` · `FastAPI` · `Automation`
 
-[![Repo](https://img.shields.io/badge/→_View_Repository-0a7a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/kitchenstock-ai)
+[![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/kitchenstock-ai)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💹 TrackIt Finance Tracker
+### 💹 Flask TrackIt
 > *"Clarity over complexity — your money, mapped."*
 
-A Flask-powered personal finance system to log income and expenses, visualise spending patterns, and auto-generate monthly summaries.
+Modular, database-driven personal finance tracker with secure session-based auth, income/expense management, monthly summaries, and Flask Blueprint architecture. Render-deployment ready.
 
-**Stack:** `Python` · `Flask` · `MySQL`
+**Stack:** `Python` · `Flask` · `PostgreSQL` · `Werkzeug`
 
-[![Repo](https://img.shields.io/badge/→_View_Repository-0a7a8a?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/trackit-finance-tracker)
+[![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/trackit-finance-tracker)
 
 </td>
 </tr>
@@ -108,59 +149,44 @@ A Flask-powered personal finance system to log income and expenses, visualise sp
 
 ## 🌿 Open Source
 
-### TheGittyPerson / ThePerson
-Contributed the `existential_crisis` feature — implemented, reviewed, and successfully merged via Pull Request. Passed full CI/CD pipeline checks.
+### amFOSS — TheGittyPerson / ThePerson
 
-[![PR #45](https://img.shields.io/badge/Pull_Request_%2345-merged-0a7a8a?style=flat-square&logo=git&logoColor=white)](https://github.com/TheGittyPerson/ThePerson/pull/45)
-[![amFOSS](https://img.shields.io/badge/Member-amFOSS_Open_Source_Community-0d3b5e?style=flat-square)](https://amfoss.in)
+Active contributor in the **amFOSS open-source community**. Implemented the `existential_crisis` feature — collaborated with the project maintainer, passed full CI/CD pipeline checks, and merged successfully via Pull Request.
 
----
-
-## 🏅 Honours
-
-| Award | Event |
-|---|---|
-| 🥇 First Place | Epochon 2.0 — AI Hackathon |
-| 🎓 Workshop Participant | IIT Bombay Techfest — AI Track |
-| 🌐 Community Member | amFOSS Open Source Club |
+[![PR #45 Merged](https://img.shields.io/badge/PR_%2345-merged-0a4a6e?style=flat-square&logo=git&logoColor=white)](https://github.com/TheGittyPerson/ThePerson/pull/45)
+[![amFOSS](https://img.shields.io/badge/Member-amFOSS_Community-020817?style=flat-square&logo=opensourceinitiative&logoColor=7ecfde)](https://amfoss.in)
 
 ---
 
-## 📡 Signal Strength
+## 📡 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nithishkumar-dev-10&show_icons=true&theme=transparent&hide_border=true&title_color=a8edea&icon_color=78c5c8&text_color=a8edea&bg_color=0a0f2e" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumar-dev-10&theme=transparent&hide_border=true&ring=7ecfde&fire=0a4a6e&currStreakLabel=7ecfde&sideLabels=7ecfde&dates=7ecfde&background=020817&stroke=0a4a6e" width="52%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumar-dev-10&theme=transparent&hide_border=true&ring=a8edea&fire=78c5c8&currStreakLabel=a8edea&sideLabels=a8edea&dates=78c5c8&background=0a0f2e" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=transparent&hide_border=true&title_color=a8edea&text_color=78c5c8&bg_color=0a0f2e" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=transparent&hide_border=true&title_color=7ecfde&text_color=c9e8f0&bg_color=020817" width="38%" />
 
 </div>
 
 ---
 
-## 🔗 Coordinates
+## 🔗 Let's build something great
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0a0f2e?style=for-the-badge&logoColor=a8edea)](https://nithishkumar-dev-10.github.io/nithish-dev-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0d3b5e?style=for-the-badge&logo=linkedin&logoColor=a8edea)](https://www.linkedin.com/in/nithish-kumar-saravanan10)
-[![GitHub](https://img.shields.io/badge/◈_GitHub-0a7a8a?style=for-the-badge&logo=github&logoColor=0a0f2e)](https://github.com/nithishkumar-dev-10)
-[![Email](https://img.shields.io/badge/◈_Email-0a0f2e?style=for-the-badge&logo=gmail&logoColor=a8edea)](mailto:nithishkumarsaravanan33@gmail.com)
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-020817?style=for-the-badge&logoColor=7ecfde)](https://nithishkumar-dev-10.github.io/nithish-dev-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0c1a3a?style=for-the-badge&logo=linkedin&logoColor=7ecfde)](https://www.linkedin.com/in/nithish-kumar-saravanan10/)
+[![GitHub](https://img.shields.io/badge/◈_GitHub-0a4a6e?style=for-the-badge&logo=github&logoColor=e2f4f7)](https://github.com/nithishkumar-dev-10)
+[![Email](https://img.shields.io/badge/◈_Email-020817?style=for-the-badge&logo=gmail&logoColor=7ecfde)](mailto:nithishkumar.dev10@gmail.com)
 
-</div>
+<br/>
 
----
+*Open to AI/ML engineering roles, internships, and exciting collaborations. I respond fast.*
 
-<div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a7a8a,50:0d3b5e,100:0a0f2e&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a4a6e,50:0c1a3a,100:020817&height=110&section=footer&animation=fadeIn" width="100%"/>
 
-*"Data is the ocean. Intelligence is learning to swim."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=nithishkumar-dev-10&color=0a7a8a&style=flat-square&label=PROFILE+DEPTH)
+![Profile Views](https://komarev.com/ghpvc/?username=nithishkumar-dev-10&color=0a4a6e&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
