@@ -153,8 +153,6 @@ Modular, database-driven personal finance tracker with secure session-based auth
 </tr>
 </table>
 
-
----
 ## 🌿 Open Source
 
 <div align="center">
@@ -208,40 +206,16 @@ Independent open-source contributor — working on real-world repositories and m
 
 <br/>
 
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Merged_✓-0a4a6e?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Merged_✓-0a4a6e?style=flat-square)
 ![PR](https://img.shields.io/badge/PR-39-020817?style=flat-square&logo=git&logoColor=7ecfde)
 ![Tech](https://img.shields.io/badge/Python-Tests-020817?style=flat-square&logo=python&logoColor=7ecfde)
-![Focus](https://img.shields.io/badge/Test%20Coverage-Improved-020817?style=flat-square&logo=checkmarx&logoColor=7ecfde)
+![Focus](https://img.shields.io/badge/Test%20Coverage-Improved-020817?style=flat-square)
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Merged_✓-0a4a6e?style=flat-square&logoColor=white)
-![Branch](https://img.shields.io/badge/Branch-main-020817?style=flat-square&logo=git&logoColor=7ecfde)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Passing_✓-020817?style=flat-square&logo=githubactions&logoColor=7ecfde)
-![Community](https://img.shields.io/badge/amFOSS-Member-020817?style=flat-square&logo=opensourceinitiative&logoColor=7ecfde)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🖥️ Portfolio
 
