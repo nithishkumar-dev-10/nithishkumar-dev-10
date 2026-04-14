@@ -155,7 +155,6 @@ Modular, database-driven personal finance tracker with secure session-based auth
 
 
 ---
-
 ## 🌿 Open Source
 
 <div align="center">
@@ -164,21 +163,30 @@ Modular, database-driven personal finance tracker with secure session-based auth
 <tr>
 <td>
 
-<img align="left" src="https://img.shields.io/badge/CONTRIBUTOR-amFOSS-0a4a6e?style=for-the-badge&logo=opensourceinitiative&logoColor=7ecfde" />
+<img align="left" src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-0a4a6e?style=for-the-badge&logo=opensourceinitiative&logoColor=7ecfde" />
 
 <br/><br/>
 
 **TheGittyPerson / ThePerson** &nbsp;·&nbsp; [View PR #45 ↗](https://github.com/TheGittyPerson/ThePerson/pull/45)
 
-Member of the **amFOSS open-source developer community** — contributing to real codebases alongside experienced maintainers.
+Independent open-source contributor — contributing to real-world repositories and maintainer-reviewed code.
 
 &nbsp;&nbsp;🔹 Implemented the `existential_crisis` feature from scratch — zero prior context, shipped clean<br/>
 &nbsp;&nbsp;🔹 Direct code review collaboration with the project maintainer — iterated fast, merged faster<br/>
 &nbsp;&nbsp;🔹 Full CI/CD pipeline cleared — every automated check green on first pass<br/>
 &nbsp;&nbsp;🔹 Successfully merged into `main` — contribution lives in production
 
+<br/>
 
-<div align="center">
+![Status](https://img.shields.io/badge/Status-Merged_✓-0a4a6e?style=flat-square)
+![Branch](https://img.shields.io/badge/Branch-main-020817?style=flat-square&logo=git&logoColor=7ecfde)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Passing_✓-020817?style=flat-square&logo=githubactions&logoColor=7ecfde)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <table>
 <tr>
@@ -197,6 +205,19 @@ Independent open-source contributor — working on real-world repositories and m
 &nbsp;&nbsp;🔹 Filled maintainer-flagged *help wanted* coverage gaps<br/>
 &nbsp;&nbsp;🔹 Implemented monotonic timing mocks and handled off-by-one edge cases<br/>
 &nbsp;&nbsp;🔹 Successfully merged after full review cycle
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Merged_✓-0a4a6e?style=flat-square)
+![PR](https://img.shields.io/badge/PR-39-020817?style=flat-square&logo=git&logoColor=7ecfde)
+![Tech](https://img.shields.io/badge/Python-Tests-020817?style=flat-square&logo=python&logoColor=7ecfde)
+![Focus](https://img.shields.io/badge/Test%20Coverage-Improved-020817?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
