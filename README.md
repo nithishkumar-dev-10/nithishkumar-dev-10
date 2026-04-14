@@ -168,7 +168,7 @@ Modular, database-driven personal finance tracker with secure session-based auth
 
 **TheGittyPerson / ThePerson** &nbsp;·&nbsp; [View PR #45 ↗](https://github.com/TheGittyPerson/ThePerson/pull/45)
 
-
+Member of the **amFOSS open-source developer community** — contributing to real codebases alongside experienced maintainers.
 
 &nbsp;&nbsp;🔹 Implemented the `existential_crisis` feature from scratch — zero prior context, shipped clean<br/>
 &nbsp;&nbsp;🔹 Direct code review collaboration with the project maintainer — iterated fast, merged faster<br/>
