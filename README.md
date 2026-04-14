@@ -153,6 +153,7 @@ Modular, database-driven personal finance tracker with secure session-based auth
 </tr>
 </table>
 
+
 ---
 
 ## 🌿 Open Source
