@@ -208,10 +208,6 @@ Independent open-source contributor — working on real-world repositories and m
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Merged_✓-0a4a6e?style=flat-square)
-![PR](https://img.shields.io/badge/PR-39-020817?style=flat-square&logo=git&logoColor=7ecfde)
-![Tech](https://img.shields.io/badge/Python-Tests-020817?style=flat-square&logo=python&logoColor=7ecfde)
-![Focus](https://img.shields.io/badge/Test%20Coverage-Improved-020817?style=flat-square)
 
 </td>
 </tr>
