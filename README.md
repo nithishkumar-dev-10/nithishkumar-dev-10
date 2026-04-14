@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020817,50:0c1a3a,100:0a4a6e&height=220&section=header&text=Nithish%20Kumar&fontSize=60&fontColor=e2f4f7&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20Multi-Agent%20Systems&descColor=7ecfde&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 </div>
 
-
 <br/>
 
 <div align="center">
@@ -12,7 +11,6 @@
 </div>
 
 ---
-
 
 ### `~/nithish/profile.py`
 
@@ -30,11 +28,8 @@ class NithishKumar:
   status  = "Open to work 🚀"
 
   def exploring(self):
-    return ["RAG pipelines", "MCP agents",
-            "LLM evaluation"]
+    return ["RAG pipelines", "MCP agents", "LLM evaluation"]
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -47,67 +42,34 @@ class NithishKumar:
 <td align="center" width="33%">
 
 ### 🤖 AI & Machine Learning
-<br/>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" title="Python"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40" title="TensorFlow"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" title="PyTorch"/>
+![Python](https://img.shields.io/badge/Python-020817?style=flat-square&logo=python&logoColor=7ecfde) ![TensorFlow](https://img.shields.io/badge/TensorFlow-020817?style=flat-square&logo=tensorflow&logoColor=7ecfde) ![PyTorch](https://img.shields.io/badge/PyTorch-020817?style=flat-square&logo=pytorch&logoColor=7ecfde)
 
-<br/><br/>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-020817?style=flat-square&logo=scikit-learn&logoColor=7ecfde) ![NumPy](https://img.shields.io/badge/NumPy-020817?style=flat-square&logo=numpy&logoColor=7ecfde) ![Pandas](https://img.shields.io/badge/Pandas-020817?style=flat-square&logo=pandas&logoColor=7ecfde) ![Jupyter](https://img.shields.io/badge/Jupyter-020817?style=flat-square&logo=jupyter&logoColor=7ecfde)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-020817?style=flat-square&logo=scikit-learn&logoColor=7ecfde)
-![NumPy](https://img.shields.io/badge/NumPy-020817?style=flat-square&logo=numpy&logoColor=7ecfde)
-![Pandas](https://img.shields.io/badge/Pandas-020817?style=flat-square&logo=pandas&logoColor=7ecfde)
-![Jupyter](https://img.shields.io/badge/Jupyter-020817?style=flat-square&logo=jupyter&logoColor=7ecfde)
-
-<br/>
-
-`ML Pipelines` · `Agentic AI` · `LLM Eval`
-`Feature Engineering` · `RAG`
+`ML Pipelines` · `Agentic AI` · `LLM Eval` · `Feature Engineering` · `RAG`
 
 </td>
 <td align="center" width="33%">
 
 ### 🔧 Backend & Databases
-<br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40" title="FastAPI"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40" title="Flask"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="40" title="PostgreSQL"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-020817?style=flat-square&logo=fastapi&logoColor=7ecfde) ![Flask](https://img.shields.io/badge/Flask-020817?style=flat-square&logo=flask&logoColor=7ecfde) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020817?style=flat-square&logo=postgresql&logoColor=7ecfde)
 
-<br/><br/>
+![MySQL](https://img.shields.io/badge/MySQL-020817?style=flat-square&logo=mysql&logoColor=7ecfde) ![REST API](https://img.shields.io/badge/REST_APIs-020817?style=flat-square&logo=postman&logoColor=7ecfde) ![Werkzeug](https://img.shields.io/badge/Werkzeug-020817?style=flat-square&logo=python&logoColor=7ecfde) ![Jinja2](https://img.shields.io/badge/Jinja2-020817?style=flat-square&logo=jinja&logoColor=7ecfde)
 
-![MySQL](https://img.shields.io/badge/MySQL-020817?style=flat-square&logo=mysql&logoColor=7ecfde)
-![REST API](https://img.shields.io/badge/REST_APIs-020817?style=flat-square&logo=postman&logoColor=7ecfde)
-![Werkzeug](https://img.shields.io/badge/Werkzeug-020817?style=flat-square&logo=python&logoColor=7ecfde)
-![Jinja2](https://img.shields.io/badge/Jinja2-020817?style=flat-square&logo=jinja&logoColor=7ecfde)
-
-<br/>
-
-`Auth Systems` · `Blueprint Architecture`
-`API Design` · `DB Schema`
+`Auth Systems` · `Blueprint Architecture` · `API Design` · `DB Schema`
 
 </td>
 <td align="center" width="33%">
 
 ### 🛠️ Tools & Frontend
-<br/>
 
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" title="Git"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" title="GitHub"/>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" title="VS Code"/>
+![Git](https://img.shields.io/badge/Git-020817?style=flat-square&logo=git&logoColor=7ecfde) ![GitHub](https://img.shields.io/badge/GitHub-020817?style=flat-square&logo=github&logoColor=7ecfde) ![VS Code](https://img.shields.io/badge/VS_Code-020817?style=flat-square&logo=visualstudiocode&logoColor=7ecfde)
 
-<br/><br/>
+![HTML5](https://img.shields.io/badge/HTML5-020817?style=flat-square&logo=html5&logoColor=7ecfde) ![CSS3](https://img.shields.io/badge/CSS3-020817?style=flat-square&logo=css3&logoColor=7ecfde) ![JavaScript](https://img.shields.io/badge/JavaScript-020817?style=flat-square&logo=javascript&logoColor=7ecfde) ![Render](https://img.shields.io/badge/Render-020817?style=flat-square&logo=render&logoColor=7ecfde)
 
-![HTML5](https://img.shields.io/badge/HTML5-020817?style=flat-square&logo=html5&logoColor=7ecfde)
-![CSS3](https://img.shields.io/badge/CSS3-020817?style=flat-square&logo=css3&logoColor=7ecfde)
-![JavaScript](https://img.shields.io/badge/JavaScript-020817?style=flat-square&logo=javascript&logoColor=7ecfde)
-![Render](https://img.shields.io/badge/Render-020817?style=flat-square&logo=render&logoColor=7ecfde)
-
-<br/>
-
-`CI/CD` · `Version Control`
-`Deployment` · `Dev Tooling`
+`CI/CD` · `Version Control` · `Deployment` · `Dev Tooling`
 
 </td>
 </tr>
@@ -142,7 +104,7 @@ class NithishKumar:
 
 A **7-agent legal AI system** built in 24 hours at Epochon Hackathon — featuring a Self-Doubt Engine for safety-first decisions, Smart Scribe petition generator, compliance monitoring, and automated hearing scheduling. Awarded **First Prize** for production-grade architecture.
 
-`7 Agents` &nbsp;·&nbsp; `24h Build` &nbsp;·&nbsp; `🥇 1st Prize`
+`7 Agents` · `24h Build` · `🥇 1st Prize`
 
 **Stack:** `Python` · `FastAPI` · `Multi-Agent` · `LLM`
 
@@ -208,10 +170,10 @@ Modular, database-driven personal finance tracker with secure session-based auth
 
 Member of the **amFOSS open-source developer community** — contributing to real codebases alongside experienced maintainers.
 
-&nbsp;&nbsp;🔹 Implemented the `existential_crisis` feature from scratch<br/>
-&nbsp;&nbsp;🔹 Collaborated directly with the project maintainer on code review<br/>
-&nbsp;&nbsp;🔹 Full CI/CD pipeline passed — all automated checks green<br/>
-&nbsp;&nbsp;🔹 Successfully merged into `main` via Pull Request
+&nbsp;&nbsp;🔹 Implemented the `existential_crisis` feature from scratch — zero prior context, shipped clean<br/>
+&nbsp;&nbsp;🔹 Direct code review collaboration with the project maintainer — iterated fast, merged faster<br/>
+&nbsp;&nbsp;🔹 Full CI/CD pipeline cleared — every automated check green on first pass<br/>
+&nbsp;&nbsp;🔹 Successfully merged into `main` — contribution lives in production
 
 <br/>
 
@@ -223,6 +185,20 @@ Member of the **amFOSS open-source developer community** — contributing to rea
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🖥️ Portfolio
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/◈_nithish.dev-020817?style=for-the-badge&logoColor=7ecfde)](https://nithishkumar-dev-10.github.io/nithish-dev-portfolio/)
+
+**Live portfolio** — full project showcase, architecture diagrams, AI engineer profile, contact & hire info.
+
+`nithishkumar-dev-10.github.io/nithish-dev-portfolio`
 
 </div>
 
