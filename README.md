@@ -6,7 +6,6 @@
 
 
 
-
 <br/>
 
 <div align="center">
@@ -92,7 +91,7 @@ class NithishKumar:
 |:---:|---|---|:---:|
 | 🥇 | **1st Place — Epochon Hackathon** | Built LexTrack-AI: 7-agent legal AI system, won for production-grade architecture & real-world applicability | 2025 |
 | 🎓 | **IIT Bombay Techfest** | AI & ML workshop — hands-on ML techniques at India's most prestigious tech festival | 2025 |
-| 🌐 | **amFOSS Community Member** | Open-source contributor — collaborative engineering on real codebases at scale | Ongoing |
+| 🌿 | **3 Open-Source Contributions Merged** | Real, maintainer-reviewed PRs merged into production codebases — not toy forks | Ongoing |
 
 </div>
 
@@ -118,12 +117,12 @@ A **7-agent legal AI system** built in 24 hours at Epochon Hackathon — featuri
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ DistillCode
-> *"Turn any codebase into AI-ready intelligence."*
+### 🚆 TransReliant
+> *"Know your journey's odds before you book it."*
 
-Distills any GitHub repo into a structured ZIP + PDF summary. Handles repos of any size — strips datasets, removes DB binaries, exports schemas, and generates a **Claude-powered** structured project analysis.
+ML + MLOps based transport reliability prediction system. Predicts ticket confirmation probability, delay risk, and an overall reliability score using classification + regression models, an explainability layer, and Docker-containerized FastAPI deployment.
 
-**Stack:** `FastAPI` · `Python` · `Claude API` · `GitPython`
+**Stack:** `Python` · `FastAPI` · `scikit-learn` · `SHAP` · `Docker`
 
 [![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10)
 
@@ -214,6 +213,35 @@ Independent open-source contributor — working on real-world repositories and m
 ![PR](https://img.shields.io/badge/PR-39-020817?style=flat-square&logo=git&logoColor=7ecfde)
 ![Tech](https://img.shields.io/badge/Python-Tests-020817?style=flat-square&logo=python&logoColor=7ecfde)
 ![Focus](https://img.shields.io/badge/Test%20Coverage-Improved-020817?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+<img align="left" src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-0a4a6e?style=for-the-badge&logo=opensourceinitiative&logoColor=7ecfde" />
+
+<br/><br/>
+
+**hackdartstorm / Python** &nbsp;·&nbsp; [View PR #2682 ↗](https://github.com/hackdartstorm/Python/pull/2682)
+
+Independent open-source contributor — fixed user-facing input handling bugs in beginner-level program modules.
+
+&nbsp;&nbsp;🔹 Added try-except blocks to gracefully handle invalid user input<br/>
+&nbsp;&nbsp;🔹 Implemented a retry mechanism using a while loop instead of crashing on bad input<br/>
+&nbsp;&nbsp;🔹 Rewrote error messages to be clear and beginner-friendly<br/>
+&nbsp;&nbsp;🔹 Successfully merged into `main` after maintainer review
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Merged_✓-0a4a6e?style=flat-square)
+![PR](https://img.shields.io/badge/PR-2682-020817?style=flat-square&logo=git&logoColor=7ecfde)
+![Diff](https://img.shields.io/badge/%2B37_−7-020817?style=flat-square&logo=git&logoColor=7ecfde)
 
 </td>
 </tr>
