@@ -124,7 +124,7 @@ ML + MLOps based transport reliability prediction system. Predicts ticket confir
 
 **Stack:** `Python` · `FastAPI` · `scikit-learn` · `SHAP` · `Docker`
 
-[![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10)
+[![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/TransReliant)
 
 </td>
 </tr>
