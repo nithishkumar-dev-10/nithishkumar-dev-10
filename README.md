@@ -89,8 +89,8 @@ class NithishKumar:
 
 | | Achievement | Details | Year |
 |:---:|---|---|:---:|
-| 🥇 | **1st Place — Epochon Hackathon** | Built LexTrack-AI: 7-agent legal AI system, won for production-grade architecture & real-world applicability | 2025 |
-| 🎓 | **IIT Bombay Techfest** | AI & ML workshop — hands-on ML techniques at India's most prestigious tech festival | 2025 |
+| 🥇 | **1st Place — Epochon 2.0 Hackathon** | Built LexTrack-AI: 7-agent legal AI system, won for production-grade architecture & real-world applicability | 2026 |
+| 🎓 | **IIT Bombay Techfest** | AI & ML workshop — hands-on ML techniques at India's most prestigious tech festival | 2026 |
 | 🌿 | **3 Open-Source Contributions Merged** | Real, maintainer-reviewed PRs merged into production codebases — not toy forks | Ongoing |
 
 </div>
