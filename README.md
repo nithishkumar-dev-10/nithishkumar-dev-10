@@ -261,17 +261,6 @@ Independent open-source contributor — fixed user-facing input handling bugs in
 
 </div>
 
----
-
-## 📡 Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishkumar-dev-10&theme=transparent&hide_border=true&ring=7ecfde&fire=0a4a6e&currStreakLabel=7ecfde&sideLabels=7ecfde&dates=7ecfde&background=020817&stroke=0a4a6e" width="52%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar-dev-10&layout=compact&theme=transparent&hide_border=true&title_color=7ecfde&text_color=c9e8f0&bg_color=020817" width="38%" />
-
-</div>
 
 ---
 
@@ -289,9 +278,5 @@ Independent open-source contributor — fixed user-facing input handling bugs in
 *Open to AI/ML engineering roles, internships, and exciting collaborations. I respond fast.*
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a4a6e,50:0c1a3a,100:020817&height=110&section=footer&animation=fadeIn" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nithishkumar-dev-10&color=0a4a6e&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
