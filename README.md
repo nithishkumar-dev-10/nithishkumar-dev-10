@@ -143,18 +143,14 @@ Smart kitchen inventory & grocery planning system. Tracks ingredients, estimates
 </td>
 <td width="50%" valign="top">
 
-### 💹 Flask TrackIt
-> *"Clarity over complexity — your money, mapped."*
+### 📊 WorkPulse
+> *"Attrition before it happens — not after you lose them."*
 
-Modular, database-driven personal finance tracker with secure session-based auth, income/expense management, monthly summaries, and Flask Blueprint architecture. Render-deployment ready.
+Employee attrition prediction system with a YAML-driven, modular ML pipeline. Handles class imbalance via SMOTE + weighted training, integrates SHAP (Tree + Linear explainers) for per-feature attrition drivers, and auto-generates distribution, heatmap, and categorical-rate visualizations from the training run.
 
-**Stack:** `Python` · `Flask` · `PostgreSQL` · `Werkzeug`
+**Stack:** `Python` · `scikit-learn` · `XGBoost` · `SHAP` · `YAML Config`
 
-[![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/trackit-finance-tracker)
-
-</td>
-</tr>
-</table>
+[![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/WorkPulse)
 
 ## 🌿 Open Source
 
