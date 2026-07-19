@@ -152,6 +152,10 @@ Employee attrition prediction system with a YAML-driven, modular ML pipeline. Ha
 
 [![GitHub](https://img.shields.io/badge/→_View_Repo-0a4a6e?style=flat-square&logo=github&logoColor=white)](https://github.com/nithishkumar-dev-10/WorkPulse)
 
+</td>
+</tr>
+</table>
+
 ## 🌿 Open Source
 
 <div align="center">
