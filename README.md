@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:0EA5E9&height=240&section=header&text=Nithish%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Builder%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:0EA5E9&height=220&section=header&text=Nithish%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Builder%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=48&descSize=14&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=4F46E5,0EA5E9,F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=55&lines=Open+to+AI%2FML+Engineering+roles+and+internships;Building+RAG+pipelines+and+MCP+agent+systems;Turning+ML+ideas+into+shipped+products" alt="Typing SVG" />
-<br/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2800&pause=900&color=4F46E5,0EA5E9,F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=130&lines=Open+to+AI%2FML+Engineering+roles+and+internships;Building+RAG+pipelines+and+MCP+agent+systems;Turning+ML+ideas+into+shipped+products" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:0EA5E9&height=4&width=100%"/>
 
-## About Me
+## 🧑‍💻 About Me
 
 <table>
 <tr>
@@ -23,24 +24,28 @@
 
 <br/>
 
-**Nithish Kumar** is an AI Engineer in training, pursuing a B.Tech in Computer Science at Amrita Vishwa Vidyapeetham, with a focus on building real, deployable AI systems rather than theoretical exercises.
+🎯 **Nithish Kumar** is an AI Engineer in training, pursuing a B.Tech in Computer Science at Amrita Vishwa Vidyapeetham, with a focus on building real, deployable AI systems rather than theoretical exercises.
 
-**Core stack:** Python · FastAPI · Flask · Machine Learning
+<br/>
 
-**Currently exploring:** RAG pipelines, MCP agents, and LLM evaluation
+🧩 <img src="https://img.shields.io/badge/CORE%20STACK-4F46E5?style=flat-square&labelColor=0F172A"/> &nbsp;Python · FastAPI · Flask · Machine Learning
 
-**Mission:** Build AGI-era products, scale AI systems that matter, and create real-world impact — not just polished demos.
+🔭 <img src="https://img.shields.io/badge/EXPLORING-0EA5E9?style=flat-square&labelColor=0F172A"/> &nbsp;RAG pipelines · MCP agents · LLM evaluation
+
+🚀 <img src="https://img.shields.io/badge/MISSION-F59E0B?style=flat-square&labelColor=0F172A"/> &nbsp;Build AGI-era products, scale AI systems that matter, create real-world impact
+
+🌱 <img src="https://img.shields.io/badge/APPROACH-14B8A6?style=flat-square&labelColor=0F172A"/> &nbsp;Ship real projects, learn by building, optimize effort vs. outcome
 
 </td>
 <td width="42%" valign="top">
 
 <br/>
 
-| | |
-|---|---|
-| 🥇 | **Epochon 2.0 Hackathon** — 1st Place |
-| 🎓 | **IIT Bombay Techfest** — AI & ML Workshop |
-| 🌱 | **3 Open-Source PRs** — Merged in production repos |
+<table>
+<tr><td>🥇</td><td><b>Epochon 2.0 Hackathon</b><br/><sub>1st Place</sub></td></tr>
+<tr><td>🎓</td><td><b>IIT Bombay Techfest</b><br/><sub>AI &amp; ML Workshop</sub></td></tr>
+<tr><td>🌱</td><td><b>3 Open-Source PRs</b><br/><sub>Merged in production repos</sub></td></tr>
+</table>
 
 </td>
 </tr>
@@ -77,7 +82,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=45&text=LexTrack-AI&fontColor=ffffff&fontSize=18&fontAlignY=65&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:0EA5E9&height=58&text=LexTrack-AI&fontColor=ffffff&fontSize=27&fontAlignY=68&section=header"/>
 
 *Safety-first multi-agent legal intelligence*
 
@@ -91,7 +96,7 @@ A 7-agent legal AI system built in 24 hours at Epochon Hackathon — Self-Doubt 
 
 </td>
 <td width="50%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:14B8A6&height=45&text=TransReliant&fontColor=ffffff&fontSize=18&fontAlignY=65&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:14B8A6&height=58&text=TransReliant&fontColor=ffffff&fontSize=27&fontAlignY=68&section=header"/>
 
 *Know your journey's odds before you book it*
 
@@ -102,12 +107,13 @@ ML + MLOps transport reliability predictor — ticket confirmation probability, 
 <br/><br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-→-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/nithishkumar-dev-10/TransReliant)
+[![View Live Deployment](https://img.shields.io/badge/View%20Live%20Deployment-●-14B8A6?style=for-the-badge&logoColor=white&labelColor=0F172A)](https://transreliant.onrender.com/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:4F46E5&height=45&text=KitchenStock%20AI&fontColor=ffffff&fontSize=18&fontAlignY=65&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F59E0B,100:4F46E5&height=58&text=KitchenStock%20AI&fontColor=ffffff&fontSize=27&fontAlignY=68&section=header"/>
 
 *An AI that knows your fridge better than you do*
 
@@ -118,10 +124,11 @@ Smart kitchen inventory & grocery planning system — ingredient tracking, behav
 <br/><br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-→-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/nithishkumar-dev-10/kitchenstock-ai)
+[![View Live Deployment](https://img.shields.io/badge/View%20Live%20Deployment-●-4F46E5?style=for-the-badge&logoColor=white&labelColor=0F172A)](https://kitchenstock-ai.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,100:0EA5E9&height=45&text=WorkPulse&fontColor=ffffff&fontSize=18&fontAlignY=65&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,100:0EA5E9&height=58&text=WorkPulse&fontColor=ffffff&fontSize=27&fontAlignY=68&section=header"/>
 
 *Attrition before it happens — not after you lose them*
 
@@ -191,11 +198,13 @@ Independent contributor to real-world, maintainer-reviewed code.
 
 <div align="center">
 
-<a href="https://nithishkumar-dev-10.github.io/nithish-dev-portfolio/">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:0EA5E9&height=70&text=nithish.dev%20—%20Live%20Portfolio&fontColor=ffffff&fontSize=20&fontAlignY=65&section=header"/>
-</a>
 
 Full project showcase · architecture diagrams · AI engineer profile · contact & hire info
+
+<br/><br/>
+
+[![View Portfolio](https://img.shields.io/badge/VIEW%20PORTFOLIO-→-4F46E5?style=for-the-badge&labelColor=0F172A)](https://nithishkumar-dev-10.github.io/nithish-dev-portfolio/)
 
 </div>
 
