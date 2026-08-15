@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:0EA5E9&height=240&section=header&text=Nithish%20Kumar&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Builder%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=4F46E5,0EA5E9,F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=55&lines=Open+to+AI%2FML+Engineering+roles+and+internships;Building+RAG+pipelines+and+MCP+agent+systems;Turning+ML+ideas+into+shipped+products" alt="Typing SVG" />
+<br/>
 
 <br/>
 
