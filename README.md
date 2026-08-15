@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:0EA5E9&height=220&section=header&text=Nithish%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Builder%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=48&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:0EA5E9&height=200&section=header&text=Nithish%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Backend%20Builder%20%E2%80%A2%20Multi-Agent%20Systems&descAlignY=48&descSize=14&animation=fadeIn" width="100%"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2800&pause=900&color=4F46E5,0EA5E9,F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=90&lines=Open+to+AI%2FML+Engineering+roles+and+internships;Building+RAG+pipelines+and+MCP+agent+systems;Turning+ML+ideas+into+shipped+products" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=19&duration=2800&pause=900&color=4F46E5,0EA5E9,F59E0B&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=130&lines=Open+to+AI%2FML+Engineering+roles+and+internships;Building+RAG+pipelines+and+MCP+agent+systems;Turning+ML+ideas+into+shipped+products" alt="Typing SVG" />
-
-<br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4F46E5?style=for-the-badge&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/EDUCATION-B.TECH%20CS%20%40%20AMRITA-0EA5E9?style=for-the-badge&labelColor=0F172A"/>
