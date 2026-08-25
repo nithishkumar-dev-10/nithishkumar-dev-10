@@ -21,7 +21,7 @@
 
 <br/>
 
-🎯 **Nithish Kumar** is an AI Engineer in training, pursuing a B.Tech in Computer Science at Amrita Vishwa Vidyapeetham, with a focus on building real, deployable AI systems rather than theoretical exercises.
+ **Nithish Kumar** is an AI Engineer in training, pursuing a B.Tech in Computer Science at Amrita Vishwa Vidyapeetham, with a focus on building real, deployable AI systems rather than theoretical exercises.
 
 <br/>
 
