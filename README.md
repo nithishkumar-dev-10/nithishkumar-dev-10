@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:0EA5E9&height=4&width=100%"/>
 
-## 🧑‍💻 About Me
+##  About Me
 
 <table>
 <tr>
