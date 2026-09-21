@@ -201,8 +201,7 @@ Full project showcase · architecture diagrams · AI engineer profile · contact
 
 <br/><br/>
 
-[![View Portfolio](https://img.shields.io/badge/VIEW%20PORTFOLIO-→-4F46E5?style=for-the-badge&labelColor=0F172A)]([https://nithishkumar-dev-10.github.io/nithish-dev-portfolio/](https://nithish-dev-portfolio.vercel.app/))
-
+[![View Portfolio](https://img.shields.io/badge/VIEW%20PORTFOLIO-%234F6E5D?style=for-the-badge&labelColor=0F172A)](https://nithish-dev-portfolio.vercel.app/)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:0EA5E9&height=4&width=100%"/>
